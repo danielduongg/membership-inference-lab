@@ -1,0 +1,19 @@
+{
+  "max_depth": 8,
+  "utility": {
+    "train_acc": 1.0,
+    "test_acc": 0.373
+  },
+  "naive": {
+    "auc": 0.98372125,
+    "balanced_acc": 0.92075,
+    "tpr_at_1pct_fpr": 0.73125,
+    "tpr_at_10pct_fpr": 0.95375
+  },
+  "shadow": {
+    "auc": 0.98497875,
+    "balanced_acc": 0.928625,
+    "tpr_at_1pct_fpr": 0.735,
+    "tpr_at_10pct_fpr": 0.95625
+  }
+}
