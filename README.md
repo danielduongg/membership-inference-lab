@@ -1,5 +1,7 @@
 # Membership-Inference Lab
 
+[![CI](https://github.com/danielduongg/membership-inference-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/danielduongg/membership-inference-lab/actions)
+
 **Does a trained model leak who was in its training set? Yes — and the more it overfits, the more it leaks.**
 
 A small, fully reproducible testbed for the **privacy** side of ML security (the third in
